@@ -1,0 +1,3 @@
+This project contains some graphics samples for generating Archimedean-based spirals, as well as Cissoid, Cochleoid, Conchoid, Lissajous, and Lituus-based curves.
+Please remember that these code samples are for illustrative purposes only, which means that they are not optimized for performance.
+Although the set of graphics primitives in Lua (only circles, rectangles, and rounded rectangles) is much smaller than other scripting languages, Lua does support gradients, animation, and events.
